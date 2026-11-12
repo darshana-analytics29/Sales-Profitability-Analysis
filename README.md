@@ -78,7 +78,7 @@ For category, regional, and segment comparisons, profit margin is calculated usi
 
 ## Power BI Dashboard
 
-The interactive Power BI dashboard consists of three analytical pages.
+The interactive Power BI dashboard consists of three analytical pages, providing insights into sales performance, profitability, and overall business performance.
 
 ### 1. Sales Overview
 
@@ -93,8 +93,9 @@ This dashboard page provides an overview of business performance through KPI car
 - Sales and Profit by Category
 - Annual and Monthly Trends
 
-![Sales Overview](PowerBI/sales-overview.png)
+![Sales Overview](PowerBI/Sales%20Overview.png)
 
+---
 
 ### 2. Profitability Analysis
 
@@ -106,8 +107,9 @@ This page focuses on identifying profitable and loss-making areas across product
 - Top 10 Most Profitable Products
 - Sub-Category Filtering
 
-![Profitability Analysis](PowerBI/profitability-analysis.png)
+![Profitability Analysis](PowerBI/Profitability%20Analysis.png)
 
+---
 
 ### 3. Business Performance
 
@@ -119,7 +121,7 @@ This page evaluates business performance across geographical regions, customer s
 - Sales and Profit by Shipping Mode
 - Profit Margin by Region
 
-![Business Performance](PowerBI/business-performance.png)
+![Business Performance](PowerBI/Business%20Performance.png)
 
 ## SQL Analysis – PostgreSQL
 
