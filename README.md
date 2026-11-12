@@ -93,7 +93,8 @@ This dashboard page provides an overview of business performance through KPI car
 - Sales and Profit by Category
 - Annual and Monthly Trends
 
-![Sales Overview Dashboard](PowerBI/Screenshots/sales-overview.png)
+![Sales Overview](PowerBI/sales-overview.png)
+
 
 ### 2. Profitability Analysis
 
@@ -105,7 +106,8 @@ This page focuses on identifying profitable and loss-making areas across product
 - Top 10 Most Profitable Products
 - Sub-Category Filtering
 
-![Profitability Analysis Dashboard](PowerBI/Screenshots/profitability-analysis.png)
+![Profitability Analysis](PowerBI/profitability-analysis.png)
+
 
 ### 3. Business Performance
 
@@ -117,7 +119,7 @@ This page evaluates business performance across geographical regions, customer s
 - Sales and Profit by Shipping Mode
 - Profit Margin by Region
 
-![Business Performance Dashboard](PowerBI/Screenshots/business-performance.png)
+![Business Performance](PowerBI/business-performance.png)
 
 ## SQL Analysis – PostgreSQL
 
